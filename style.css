@@ -1,0 +1,21 @@
+.card-change{
+    border: 0;
+}
+.card-footer-change{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-color .carousel-item{
+    background-color: #FCEAE8;
+    border-radius: 0.7em;
+}
+.color{
+    background-color:#FF3C89;
+    border-radius: 5px;
+}
+.image-color img{
+    color:rgb(255, 0, 0);
+}
